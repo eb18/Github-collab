@@ -16,6 +16,10 @@ public class GithubCollab2 {
         System.out.println("Github makes us angry");
         
     }
+    
+    static void MeanGitHubMessage(){
+        System.out.println("I wish that I could set GitHub on fire!!!");
+    }
 
     /**
      * @param args the command line arguments
@@ -23,6 +27,7 @@ public class GithubCollab2 {
     public static void main(String[] args) {
         // TODO code application logic here
         thisIsAnnoying();
+        MeanGitHubMessage();
     }
     
 }
